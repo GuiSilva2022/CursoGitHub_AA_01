@@ -1,0 +1,5 @@
+1) Guilherme Carlos da Silva  N°:11  Idade:17 
+2) 1) O que é um repositório?
+       Repositório é lugar para armazenar pacotes de software que podem ser recuperados e instalados em seu computador
+   2) Qual a diferença entre Git e Github?
+       Git é um software local que permite aos desenvolvedores salvar seus projetos ao longo do tempo. GitHub é uma plataforma na web que junta os recursos de controle de versões do gitHub.    
