@@ -1,2 +1,1 @@
-1) MinhasInformacoes.txt
 2) MinhasRespostas.txt
