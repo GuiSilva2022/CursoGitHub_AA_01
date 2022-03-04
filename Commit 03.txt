@@ -1,6 +1,0 @@
-1) Guilherme Carlos da Silva  N°:11  Idade:17 
-2) 3) Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
-     É importante usar o controle de versão porque ele ajuda os desenvolvedores a se "mover" mais rápido e permite que as equipes de software preservem a agilidade e a eficiência.
-   4) Quais vantagens você enxerga no Git? Você utilizaria em seu projeto?
-     As vantagens que eu enxergo é que é fácil de trabalhar e ele verifique o status de suas modificações.
-     Eu usaria.
